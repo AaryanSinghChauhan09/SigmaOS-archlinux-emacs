@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-emacs component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-emacs"
+name = "sigmaos_archlinux_emacs"
 path = "src/lib.rs"
