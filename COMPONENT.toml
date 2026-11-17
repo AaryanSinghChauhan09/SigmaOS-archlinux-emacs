@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-emacs"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-emacs component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
